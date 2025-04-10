@@ -64,17 +64,17 @@ Tiga model utama yang digunakan dalam proyek ini:
 ## 📁 Struktur Direktori
 
 Submission/ 
-├── Dataset/ 
-│ └── ulasan_dana_12000.csv 
-├── Model/
-│ ├── model_cnn.h5 
-│ ├── model_gru.h5 
-│ ├── model_lstm.h5 
+| ── Dataset/ 
+| └── ulasan_dana_12000.csv 
+| ── Model/
+| ├── model_cnn.h5 
+| ├── model_gru.h5 
+| ├── model_lstm.h5 
 │ └── tokenizer.pkl
-├── Inference_Zaenal_Syamsyul_Arief.ipynb
-├── Scrapping_Data_Ulasan_Dana_Zaenal_Syamsyul_Arief.ipynb
-├── Submission_Analisis_Sentiment_Aplikasi_Dana_Zaenal_Syamsyul_Arief.ipynb
-└── requirements.txt
+| ── Inference_Zaenal_Syamsyul_Arief.ipynb
+| ── Scrapping_Data_Ulasan_Dana_Zaenal_Syamsyul_Arief.ipynb
+| ── Submission_Analisis_Sentiment_Aplikasi_Dana_Zaenal_Syamsyul_Arief.ipynb
+└ ── requirements.txt
 
 
 ---
