@@ -78,6 +78,7 @@ Submission/
 └── requirements.txt                          
 ---
 
+--- 
 ## 🚀 Cara Menjalankan
 
 1. **Clone repositori ini:**
@@ -86,3 +87,4 @@ Submission/
    cd Analisis-Sentimen-Aplikasi-Dana
     `install dependensi:`
      `pip install -r requirements.txt`
+--- 
