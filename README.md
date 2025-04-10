@@ -83,7 +83,7 @@ Submission/
 
 1. **Clone repositori ini:**
    ```bash
-   git clone https://github.com/username/Analisis-Sentimen-Aplikasi-Dana.git
+   git clone zaenalSamsul/Analisis-Sentimen-Aplikasi-Dana
    cd Analisis-Sentimen-Aplikasi-Dana
     `install dependensi:`
      `pip install -r requirements.txt`
