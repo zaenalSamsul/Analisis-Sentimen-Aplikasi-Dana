@@ -66,19 +66,16 @@ Tiga model utama yang digunakan dalam proyek ini:
 ```text
 Submission/
 ├── Dataset/
-│   └── ulasan_dana_12000.csv                     # Dataset hasil scraping dari Google Play Store
+│   └── ulasan_dana_12000.csv                    
 ├── Model/
-│   ├── model_cnn.h5                              # Model CNN hasil training
-│   ├── model_gru.h5                              # Model GRU hasil training
-│   ├── model_lstm.h5                             # Model LSTM hasil training
-│   └── tokenizer.pkl                             # Tokenizer untuk preprocessing input teks
-├── Inference_Zaenal_Syamsyul_Arief.ipynb         # Notebook untuk prediksi/inferensi
-├── Scrapping_Data_Ulasan_Dana_Zaenal_Syamsyul_Arief.ipynb  # Notebook scraping ulasan dari Play Store
-├── Submission_Analisis_Sentiment_Aplikasi_Dana_Zaenal_Syamsyul_Arief.ipynb  # Notebook utama: training & evaluasi
-└── requirements.txt                              # Daftar pustaka Python yang dibutuhkan
-
-
-
+│   ├── model_cnn.h5                              
+│   ├── model_gru.h5                             
+│   ├── model_lstm.h5                            
+│   └── tokenizer.pkl                             
+├── Inference_Zaenal_Syamsyul_Arief.ipynb        
+├── Scrapping_Data_Ulasan_Dana_Zaenal_Syamsyul_Arief.ipynb 
+├── Submission_Analisis_Sentiment_Aplikasi_Dana_Zaenal_Syamsyul_Arief.ipynb  
+└── requirements.txt                          
 ---
 
 ## 🚀 Cara Menjalankan
